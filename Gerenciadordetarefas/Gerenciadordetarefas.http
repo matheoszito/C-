@@ -1,0 +1,28 @@
+@Gerenciadordetarefas_HostAddress = http://localhost:5044
+
+GET {{Gerenciadordetarefas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+
+### Raiz da aplicação
+GET http://localhost:5044/
+
+### Listagem de Produtos
+GET http://localhost:5044/tarefas/listar
+
+### Busca de Produtos por nome
+GET http://localhost:5044/tarefas/buscar/c229d875-7268-4cf8-a379-f10faf580caf
+
+### Cadastro de Produtos
+POST http://localhost:5044/tarefas/cadastrar
+Content-Type: application/json
+
+### Remoção de Produtos
+DELETE http://localhost:5044/tarefas/deletar/9cb6d6a1-6633-43fd-bf88-c74846b7ef3d
+
+### Alterar produto
+PUT http://localhost:5044/tarefas/alterar/ef52b1eb-549c-4e79-98f4-1a131baffa1e
+Content-Type: application/json
+

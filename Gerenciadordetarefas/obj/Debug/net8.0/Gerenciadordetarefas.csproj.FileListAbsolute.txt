@@ -1,0 +1,7 @@
+C:\Users\dados\Desktop\gerenciador\Gerenciadordetarefas\obj\Debug\net8.0\Gerenciadordetarefas.csproj.AssemblyReference.cache
+C:\Users\dados\Desktop\gerenciador\Gerenciadordetarefas\obj\Debug\net8.0\Gerenciadordetarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dados\Desktop\gerenciador\Gerenciadordetarefas\obj\Debug\net8.0\Gerenciadordetarefas.AssemblyInfoInputs.cache
+C:\Users\dados\Desktop\gerenciador\Gerenciadordetarefas\obj\Debug\net8.0\Gerenciadordetarefas.AssemblyInfo.cs
+C:\Users\dados\Desktop\gerenciador\Gerenciadordetarefas\obj\Debug\net8.0\Gerenciadordetarefas.csproj.CoreCompileInputs.cache
+C:\Users\dados\Desktop\gerenciador\Gerenciadordetarefas\obj\Debug\net8.0\Gerenciadordetarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dados\Desktop\gerenciador\Gerenciadordetarefas\obj\Debug\net8.0\Gerenciadordetarefas.MvcApplicationPartsAssemblyInfo.cache
